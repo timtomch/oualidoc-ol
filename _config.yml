@@ -22,8 +22,8 @@ title: Documentation Ouali
 email: thomas@tgconsulting.ca
 description: >- # this means to ignore newlines until "baseurl:"
   Documentation pour le projet Ouali de migration du registre d'autorités RenouVaud vers IdRef.
-baseurl: "" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
+baseurl: "/oualidoc-ol" # the subpath of your site, e.g. /blog
+url: "https://labs.timtom.ch" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: timtomch
 github_username:  timtomch
 
